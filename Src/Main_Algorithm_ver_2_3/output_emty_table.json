@@ -1,0 +1,16 @@
+{
+  "camera":"Link or file",
+  "table":
+    {
+      "512215": {
+        "Working Time": "12:10:52",
+        "Chair is not detected": "3:12:00",
+        "Person is not at the table":"2:12:01"
+      },
+      "513125": {
+        "Working Time": "10:04:12",
+        "Chair is not detected": "3:12:00",
+        "Person is not at the table":"2:12:01"
+      }
+    }
+}
