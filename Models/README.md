@@ -1,1 +1,1 @@
-get the logo weights from this: 
+get the logo weights from this: https://drive.google.com/file/d/1T11bh6fgtkUX4dx2t5ptiBWhr-xVJl3B/view?usp=drive_link
